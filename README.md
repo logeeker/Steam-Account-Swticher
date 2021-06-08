@@ -4,7 +4,7 @@ Swtich Steam accounts **super fast** on **Windows**. **No software needed**! Onl
 
 ## How to setup
 ### Step 1: Download the scripts
-Download the Source Code here: https://github.com/logeeker/Steam-Account-Swticher/releases/tag/1.0
+Download the Source code (zip) from here: https://github.com/logeeker/Steam-Account-Swticher/releases/tag/1.0
 
 Uncompress the zip file to a location you want (such as your desktop)
 
