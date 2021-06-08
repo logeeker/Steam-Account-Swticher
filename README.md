@@ -11,7 +11,7 @@ Uncompress the zip file to a location you want (such as your desktop)
 ### Step 2: Getting your AccountName
 The first thing you need to to write down or remember your **AccountName** from C:\Program Files (x86)\Steam\config\loginusers.vdf (path may vary if you didn't install Steam using the default path). You can open the vdf file using a text editor of your choice (such as notepad).
 ### Step 3: Setting up .reg files
-Open any **one** of the .reg files. Replace the **YOUR_AccountName** with **one of** your AccountName you found from the loginusers.vdf file mentioned above.
+Open **one** of the .reg files. Replace the **YOUR_AccountName** with **one of** your AccountName you found from the loginusers.vdf file mentioned above.
 
 **Repeat** above steps with **another AccountName** on the other .reg file.
 
